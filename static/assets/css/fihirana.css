@@ -1,0 +1,84 @@
+@charset "utf-8";
+
+.hrefauth a {
+  text-decoration: none;
+  color: #000;
+}
+/* rechercheHira */
+.rechercheHira {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+}
+.rechercheHira input {
+  border: none;
+  width: 200px;
+}
+.rechercheHira i {
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+/*  */
+.contentFihirana-content {
+  padding: 25px;
+  /* background-color: beige; */
+}
+
+/*  */
+.content_hira {
+  overflow-y: auto;
+  height: 70vh;
+  background-color: beige;
+}
+
+.content_hira div {
+  justify-content: center;
+  align-items: center;
+}
+/*  */
+.list-hira-content {
+  /* border: solid 0.5px; */
+  height: 70vh;
+  width: 95%;
+  overflow-y: auto;
+  padding: 10px;
+
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+.contentFihirana {
+  display: flex;
+  height: 80vh;
+  padding: 10px;
+}
+.contentFihirana-header {
+  /* position: fixed; */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  width: 240px;
+  min-width: 240px;
+}
+
+/*  */
+#contentFihirana-header-btn {
+  font-size: 25px;
+  margin-left: 5px;
+}
+.contentFihirana-header-option {
+  display: flex;
+  flex-direction: column;
+}
+.contentFihirana-header button {
+  margin-bottom: 5px;
+}
+/*  */

@@ -1,0 +1,26 @@
+@media screen and (max-width: 1148px) {
+  /* header{
+      display: none;
+    }   */
+  header nav ul li a {
+    display: none;
+  }
+  .resp {
+    display: flex;
+    align-items: center;
+    margin-top: 5vh;
+  }
+  .resp button {
+    margin-right: 40vw;
+  }
+  i {
+    font-size: large;
+    margin-left: 5vw;
+  }
+  h1 {
+
+  }
+
+
+  
+}

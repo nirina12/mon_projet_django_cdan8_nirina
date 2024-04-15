@@ -1,0 +1,43 @@
+/*
+.infoutilsiateur{
+    border: 0.5px solid black;
+    width: 500px;
+    border-radius: 20px;
+    display: flex;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5) ;
+}
+
+#imagephotoprofile{
+    width: 150px;
+    padding: 10px;
+}
+
+.infopersonnel{
+    display: none;
+}
+
+.formationetdiplome{
+    width: 90%;
+}
+
+*/
+
+* {
+    font-size: 15px;
+}
+
+/*style Abou page*/
+
+#authuser{
+
+    padding: 20px;
+    border: 0.5px solid black;
+    width: 300px;
+}
+.inputwidget{
+    border: none;
+    border-bottom: 1px solid black;
+}
+.labelwithinput{
+    padding: 5px;
+}

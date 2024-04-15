@@ -1,0 +1,11 @@
+header{
+    
+}
+.navbar{
+    background-color: aqua;
+}
+
+#collapsibleNavbar{
+    justify-content: center;
+    align-items: center;
+}
